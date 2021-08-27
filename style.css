@@ -1,0 +1,41 @@
+body {
+    background-color:yellow;
+    text-align: center;
+}
+header{
+    background-color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    border: 10px solid black; 
+}
+main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 1400px;
+    justify-content: center;
+    align-content: center;
+}
+h2{
+    font-size: 35px;
+
+}
+table, td, th{
+    border: 1px solid black;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+}
+nav {
+  font-family: Georgia, 'Times New Roman', Times, serif;  
+  font-size: 30px;
+  
+}
+a {
+    color:black;
+    text-decoration: yes;
+    font-weight: bolder;
+}
+ul{
+    list-style-position: inside;
+    font-size: 20px;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
